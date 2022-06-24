@@ -1,6 +1,6 @@
 ## Hi. You can call me Reinaldy. 
 
-To be honest, I'm not really a programmer. I just do it as a hobby. I work on other stuff (on a different industry). 
+To be honest, I never went to tech school. I just do it as a hobby. But, I work as a software engineer at some company anyway.
 So, if I ever answered your question, or suggested you something, 50% of it might be working, 50% else might be misleading.
 
 But, mostly a full-stack web dev. 
